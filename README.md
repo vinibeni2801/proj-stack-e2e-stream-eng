@@ -19,7 +19,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture]([(https://github.com/vinibeni2801/proj-stack-e2e-stream-eng/blob/main/image/Untitled-2024-07-31-2232.png])
+![System Architecture]([https://github.com/vinibeni2801/proj-stack-e2e-stream-eng/blob/main/image/Untitled-2024-07-31-2232.png])
 
 The architecture is structured as follows:
 
