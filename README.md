@@ -9,9 +9,7 @@ This project demonstrates a real-time data streaming architecture, designed for 
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
